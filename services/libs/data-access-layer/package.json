@@ -25,15 +25,15 @@
     "lodash.pickby": "^4.6.0",
     "lodash.max": "^4.0.1",
     "lodash.min": "^4.0.1",
-    "moment": "~2.29.4",
+    "moment": "~2.31.0",
     "pg-promise": "^11.4.3",
     "pg-query-stream": "^4.7.0",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/node": "^18.16.3",
-    "sequelize": "6.21.2",
+    "sequelize": "6.37.8",
     "typescript": "^5.6.3"
   }
 }
